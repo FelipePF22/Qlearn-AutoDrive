@@ -1,5 +1,5 @@
 
-# 🤖 Navegação Autônoma com Q-Learning e Fast LiDAR
+# 🤖  Q-Learning e Fast LiDAR
 
 > 🌐 **Selecione o idioma / Choose your language**
 
